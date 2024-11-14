@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshi28
+- 👋 Hi, I’m @sakshi
 - 👀 I’m interested in coding and analyzing data
 - 🌱 I’m currently learning BCA 
 - 📫 How to reach me ...
